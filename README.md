@@ -1,4 +1,4 @@
 ## Data Science
-1. Linear Regression
+# 1. Linear Regression
 
-2. KNN
+# 2. KNN
