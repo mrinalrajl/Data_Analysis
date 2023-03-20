@@ -1,9 +1,7 @@
 # Data Science
-## 1. Linear Regression
-
-## 2. KNN
+- 1. Linear Regression
+-2. KNN
 # Web Scraping 
-  https://github.com/Mrinal12324/WebSc.git
+  - https://github.com/Mrinal12324/WebSc.git
 ## Automation using AI
-## Deep Learning
-## 
+## Deep Learning 
